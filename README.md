@@ -10,7 +10,7 @@ Chen-Hsi (Sky) Huang (github.com/skyhuang1208)
 
 ### Achievement ###
 An validation accuracy of **91.96%** was achieved.  
-An score of 0.31325 was obtained from kaggle.
+An score of **0.30379** was obtained from kaggle.
 
 ### Neural Network Architecture ###
 * Layer in: A batch (32) of 128x128 images  
